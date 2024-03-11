@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Program that contains the entry point of the command interpreter:"""
+"""Program that contains d entry point of d command interpreter:"""
 import cmd
 from models import storage
 from models.base_model import BaseModel
